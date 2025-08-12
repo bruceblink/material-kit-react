@@ -8,12 +8,12 @@
 
 ## Pages
 
-- [Dashboard](https://free.minimals.cc/)
-- [Users](https://free.minimals.cc/user)
-- [Products](https://free.minimals.cc/products)
-- [Blog](https://free.minimals.cc/blog)
-- [Sign in](https://free.minimals.cc/sign-in)
-- [Not found](https://free.minimals.cc/404)
+- [Dashboard](https://material-kit-react-jh0718w5g-likanugs-projects.vercel.app/)
+- [Users](https://material-kit-react-jh0718w5g-likanugs-projects.vercel.app/user)
+- [Products]https://material-kit-react-jh0718w5g-likanugs-projects.vercel.app/products)
+- [Blog](https://material-kit-react-jh0718w5g-likanugs-projects.vercel.app/blog)
+- [Sign in](https://material-kit-react-jh0718w5g-likanugs-projects.vercel.app/sign-in)
+- [Not found](https://material-kit-react-jh0718w5g-likanugs-projects.vercel.app/404)
 
 ## Quick start
 
