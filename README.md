@@ -10,7 +10,7 @@
 
 - [Dashboard](https://material-kit-react-jh0718w5g-likanugs-projects.vercel.app/)
 - [Users](https://material-kit-react-jh0718w5g-likanugs-projects.vercel.app/user)
-- [Products]https://material-kit-react-jh0718w5g-likanugs-projects.vercel.app/products)
+- [Products](https://material-kit-react-jh0718w5g-likanugs-projects.vercel.app/products)
 - [Blog](https://material-kit-react-jh0718w5g-likanugs-projects.vercel.app/blog)
 - [Sign in](https://material-kit-react-jh0718w5g-likanugs-projects.vercel.app/sign-in)
 - [Not found](https://material-kit-react-jh0718w5g-likanugs-projects.vercel.app/404)
