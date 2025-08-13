@@ -1,6 +1,6 @@
 import 'src/global.css';
 
-import { useEffect } from 'react';
+import React, { useEffect } from 'react';
 
 import Fab from '@mui/material/Fab';
 
