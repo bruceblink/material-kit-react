@@ -2,7 +2,7 @@
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![preview](public/assets/images/minimal-free-preview.jpg)
+![preview](public/assets/images/minimal-free-preview.png)
 
 > Free React Admin Dashboard made with Material-UI components and React + Vite.js.
 
