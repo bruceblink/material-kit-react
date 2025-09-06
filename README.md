@@ -8,12 +8,12 @@
 
 ## Pages
 
-- [Dashboard](https://material-kit-react-lovat.vercel.app/)
-- [Users](https://material-kit-react-lovat.vercel.app/user)
-- [Products](https://material-kit-react-lovat.vercel.app/products)
-- [Blog](https://material-kit-react-lovat.vercel.app/blog)
-- [Sign in](https://material-kit-react-lovat.vercel.app/sign-in)
-- [Not found](https://material-kit-react-lovat.vercel.app/404)
+- [Dashboard](https://material-kit-react-rose.vercel.app/)
+- [Users](https://material-kit-react-rose.vercel.app/user)
+- [Products](https://material-kit-react-rose.vercel.app/products)
+- [Blog](https://material-kit-react-rose.vercel.app/blog)
+- [Sign in](https://material-kit-react-rose.vercel.app/sign-in)
+- [Not found](https://material-kit-react-rose.vercel.app/404)
 
 ## Quick start
 
